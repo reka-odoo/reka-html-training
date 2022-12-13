@@ -1,0 +1,118 @@
+.maincontainer {
+
+    margin-top: 10px;
+    background-color: #caffde;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.info-container {
+    margin-left: 10px;
+}
+
+.image-container {
+    display: flex;
+    margin: 200px;
+    margin-top: -115px;
+    margin-left: 700px;
+}
+
+/*#h1{
+    margin-left: 10px;
+}*/
+.maindescription {
+    border: 10px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    margin-top: -170px;
+    margin-left: px;
+    margin-right: 190px;
+    margin-bottom: 10px;
+    background-color: #6fda9f;
+    ;
+}
+
+.description-container {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.skills-and-projects {
+    display: flex;
+}
+
+.projects {
+    margin-left: 420px;
+}
+
+.Form-container {
+    border: 10px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: #6fda9f;
+}
+
+.FormDetails-container {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+span {
+    font-weight: normal;
+}
+
+#fname {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+
+}
+
+#lname {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+
+#address {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+
+#phone {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+
+#submit {
+    margin-top: 4px;
+    margin-bottom: 2px;
+    background-color: green;
+    color: white;
+
+}
+
+#cancel {
+    margin-top: 4px;
+    margin-bottom: 2px;
+    background-color: red;
+    color: white;
+}
